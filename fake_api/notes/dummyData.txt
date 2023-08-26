@@ -1,0 +1,43 @@
+db.wnis.insertMany(
+[
+  {
+    nama: 'Hanif Abdillah',
+    nik: '3374021508020002',
+    tempatLahir: 'Semarang',
+    tanggalLahir: '15-08-2002',
+    gender: 'L',
+    alamat: 'Jalan Kebonharjo RT 5 RW 8, Tanjungmas, Semarang Utara, Kota Semarang, Jawa Tengah'
+  },
+  {
+    nama: 'Ridho Satria Yuda',
+    nik: '3321131907010003',
+    tempatLahir: 'Demak',
+    tanggalLahir: '19-07-2001',
+    gender: 'L',
+    alamat: 'Jalan Sudirman RT 8 RW 5, Berahan Kulon, Wedung, Kabupaten Demak, Jawa Tengah'
+  },
+  {
+    nama: 'Jidan',
+    nik: '3578024301980004',
+    tempatLahir: 'Surabaya',
+    tanggalLahir: '03-01-1998',
+    gender: 'P',
+    alamat: 'Jalan Imam Bonjol RT 11 RW 2, Margorejo, Wonocolo, Kota Surabaya, Jawa Tengah'
+  },
+  {
+    nama: 'Supadi',
+    nik: '3402072504950000',
+    tempatLahir: 'Yogyakarta',
+    tanggalLahir: '25-04-1995',
+    gender: 'L',
+    alamat: 'Jalan Soekarno RT 4 RW 3, Guwosari, Pajangan, Kabupaten Bantul, DI Yogyakarta'
+  },
+  {
+    nama: 'Mardi',
+    nik: '3273214611990005',
+    tempatLahir: 'Bandung',
+    tanggalLahir: '06-11-1999',
+    gender: 'P',
+    alamat: 'Jalan Pandanaran RT 10 RW 2, Kujangsari, Bandung Kidul, Kota Bandung, Jawa Barat'
+  }
+])
